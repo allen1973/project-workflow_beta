@@ -7,6 +7,7 @@
 
 > 一个基于 [Gulp(v4.0)](https://github.com/gulpjs/gulp/tree/4.0)、高效、跨平台(macOS & Win)、可定制的前端工作流程。  
 > 现已推出 GUI 桌面工具：[WeFlow](http://weflow.io/)，无需安装任何环境依赖即可使用，官网下载：http://weflow.io/
+> need [python](https://www.python.org/downloads/)
 
 ## 功能特性
 
